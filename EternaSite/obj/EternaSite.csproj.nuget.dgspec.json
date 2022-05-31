@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yusifizcode\\Desktop\\CodeAcademy\\CSharp-EF-Stadium\\EternaSite\\EternaSite.csproj": {}
+    "C:\\Users\\yusifizcode\\Desktop\\CodeAcademy\\ASP.NET-Model-ViewModel-Layout\\EternaSite\\EternaSite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yusifizcode\\Desktop\\CodeAcademy\\CSharp-EF-Stadium\\EternaSite\\EternaSite.csproj": {
+    "C:\\Users\\yusifizcode\\Desktop\\CodeAcademy\\ASP.NET-Model-ViewModel-Layout\\EternaSite\\EternaSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yusifizcode\\Desktop\\CodeAcademy\\CSharp-EF-Stadium\\EternaSite\\EternaSite.csproj",
+        "projectUniqueName": "C:\\Users\\yusifizcode\\Desktop\\CodeAcademy\\ASP.NET-Model-ViewModel-Layout\\EternaSite\\EternaSite.csproj",
         "projectName": "EternaSite",
-        "projectPath": "C:\\Users\\yusifizcode\\Desktop\\CodeAcademy\\CSharp-EF-Stadium\\EternaSite\\EternaSite.csproj",
+        "projectPath": "C:\\Users\\yusifizcode\\Desktop\\CodeAcademy\\ASP.NET-Model-ViewModel-Layout\\EternaSite\\EternaSite.csproj",
         "packagesPath": "C:\\Users\\yusifizcode\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yusifizcode\\Desktop\\CodeAcademy\\CSharp-EF-Stadium\\EternaSite\\obj\\",
+        "outputPath": "C:\\Users\\yusifizcode\\Desktop\\CodeAcademy\\ASP.NET-Model-ViewModel-Layout\\EternaSite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yusifizcode\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
