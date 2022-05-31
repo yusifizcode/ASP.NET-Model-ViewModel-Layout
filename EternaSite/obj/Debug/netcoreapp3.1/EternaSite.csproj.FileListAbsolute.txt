@@ -104,3 +104,10 @@ C:\Users\yusifizcode\Desktop\CodeAcademy\ASP.NET-Model-ViewModel-Layout\EternaSi
 C:\Users\yusifizcode\Desktop\CodeAcademy\ASP.NET-Model-ViewModel-Layout\EternaSite\obj\Debug\netcoreapp3.1\EternaSite.genruntimeconfig.cache
 C:\Users\yusifizcode\Desktop\CodeAcademy\ASP.NET-Model-ViewModel-Layout\EternaSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\yusifizcode\Desktop\CodeAcademy\ASP.NET-Model-ViewModel-Layout\EternaSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yusifizcode\Desktop\CodeAcademy\ASP.NET-Model-ViewModel-Layout\EternaSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\yusifizcode\Desktop\CodeAcademy\ASP.NET-Model-ViewModel-Layout\EternaSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Services.cshtml.g.cs
+C:\Users\yusifizcode\Desktop\CodeAcademy\ASP.NET-Model-ViewModel-Layout\EternaSite\obj\Debug\netcoreapp3.1\Razor\Views\PortFolio\Portfolio.cshtml.g.cs
+C:\Users\yusifizcode\Desktop\CodeAcademy\ASP.NET-Model-ViewModel-Layout\EternaSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Team.cshtml.g.cs
+C:\Users\yusifizcode\Desktop\CodeAcademy\ASP.NET-Model-ViewModel-Layout\EternaSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Pricing.cshtml.g.cs
+C:\Users\yusifizcode\Desktop\CodeAcademy\ASP.NET-Model-ViewModel-Layout\EternaSite\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Blog.cshtml.g.cs
+C:\Users\yusifizcode\Desktop\CodeAcademy\ASP.NET-Model-ViewModel-Layout\EternaSite\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Contact.cshtml.g.cs

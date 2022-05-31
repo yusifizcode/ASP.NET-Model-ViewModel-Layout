@@ -32,10 +32,52 @@ namespace EternaSite
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllerRoute(
-                    "default",
-                    "{controller=home}/{action=index}/{id?}"
-                    );
+            endpoints.MapControllerRoute(
+                "default",
+                "{controller=home}/{action=index}/{id?}"
+                );
+             
+            endpoints.MapControllerRoute(
+                "about",
+                "about",
+                defaults: new { controller = "Home", action = "About" }
+                );
+
+            endpoints.MapControllerRoute(
+                "services",
+                "services",
+                defaults: new { controller = "Home", action = "Services" }
+                );
+
+            endpoints.MapControllerRoute(
+                "team",
+                "team",
+                defaults: new { controller = "Home", action = "Team" }
+                );
+
+            endpoints.MapControllerRoute(
+                "pricing",
+                "pricing",
+                defaults: new { controller = "Home", action = "Pricing" }
+                );
+
+            endpoints.MapControllerRoute(
+                "portfolio",
+                "portfolio",
+                defaults: new { controller = "Portfolio", action = "Portfolio" }
+                );
+
+            endpoints.MapControllerRoute(
+                "blog",
+                "blog",
+                defaults: new { controller = "Blog", action = "Blog" }
+                );
+
+            endpoints.MapControllerRoute(
+                "contact",
+                "contact",
+                defaults: new { controller = "Contact", action = "Contact" }
+                );
             });
         }
     }
